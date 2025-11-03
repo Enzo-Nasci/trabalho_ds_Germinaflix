@@ -1,0 +1,25 @@
+body{background-color: blue;
+color: white;
+font-size: 6mm;
+}
+section{display: flex;
+justify-content: space-around;
+}
+div{
+    margin-left: 50px;
+    
+}
+a:hover{
+    color:rgb(164, 115, 23)
+}
+a :visited{
+    color: #000fff;
+}
+
+
+nav{margin: 0 auto;
+    width: 700px;}
+
+
+
+

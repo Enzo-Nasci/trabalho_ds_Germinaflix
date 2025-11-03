@@ -1,0 +1,20 @@
+body{margin: 0;
+padding: 0;
+top: 0;
+background-color: rgb(113, 53, 218);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+article{
+    margin: 0 auto;
+    width: 700px;
+    margin-top: 100px;
+    padding: 10px;
+    background-color: rgb(241, 162, 17);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;
+}
+p{word-spacing: 10px;
+font-size: 7mm;
+text-align: justify;
+}
+header{text-align: center;
+}

@@ -1,0 +1,91 @@
+Atividade Prática 2 – HTML - Criação do Site “Germinaflix”
+Antes de começar a atividade, crie uma pasta com o nome HTML2_8EGx, em que x é o número 
+do grupo conforme definido pelo professor. Ex. Grupo 3 pasta = HTML2_8EG3
+Cada grupo irá escolher 10 filmes / séries. Todos os filmes / séries deverão estar catalogados 
+no site imdb.com (o grupo deverá ter o link da página de cada um dos filmes escolhidos para 
+usar neste trabalho). 
+Os grupos irão recortar a imagem disponível do filme /série para uso no site a ser desenvolvido 
+pelo grupo. Usar a ferramenta de captura de imagens do próprio Windows
+Os filmes serão divididos em 2 grupos:
+Grupo 1 Mais Vistos
+Grupo 2 Recomendados para você
+*** ATENÇÃO ***
+As páginas a serem criadas devem ter o título da aba do navegador personalizado indicando o 
+seu conteúdo a um ícone.
+Todas as imagens e ícones a serem usados devem estar numa pasta img abaixo da estrutura 
+dos arquivos html
+***************
+Parte 1: Criar uma página principal com a estrutura abaixo:
+(Dentro de uma <table>)
+LOGO DA GERMINAFLIX
+MAIS VISTOS
+FILME 1
+Nome do Filme
+(Ano)
+LINK
+Saiba Mais
+FILME 2
+Nome do Filme
+(Ano)
+LINK
+FILME 3
+Nome do Filme
+(Ano)
+LINK
+FILME 4
+Nome do Filme
+(Ano)
+LINK
+FILME 5
+Nome do Filme
+(Ano)
+LINK
+RECOMENDADOS
+FILME 6
+Nome do Filme
+(Ano)
+LINK
+Saiba Mais
+FILME 7
+Nome do Filme
+(Ano)
+LINK
+FILME 8
+Nome do Filme
+(Ano)
+LINK
+FILME 9
+Nome do Filme
+(Ano)
+LINK
+FILME 10
+Nome do Filme
+(Ano)
+LINK
+(Acavou a table)
+Logo da GerminaFlix pode ser qualquer logo (imagem) da Internet
+Para cada FILME do catálogo, colocar a imagem do filme disponibilizada no site imdb, embaixo
+da imagem deveremos ter o nome e o ano em que o filme foi lançado. Mais abaixo deveremos 
+ter o link para acessar o site do filme no site imdb. 2 filmes terão um link Saiba Mais que irão 
+acessar páginas descritas na Parte 2 desta atividade.
+Parte 2: Criar duas páginas com a estrutura abaixo:
+Para dois filmes (1 do grupo Mais Visto e 1 do grupo Recomendado) o grupo irá gerar uma 
+página em separado para cada um deles, com uma crítica do filme. O acesso desta página 
+deverá ser feito pelo link Saiba Mais da Página Principal. Este texto não poderá ser copiado da 
+Internet, e sim, uma opinião real de quem viu o filme ou a série. Usar a estrutura abaixo para a 
+página da resenha:
+NOME DO FILME / SÉRIE (ANO)
+<COLOCAR A IMAGEM DO FILME / SÉRIE>
+RESENHA
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore repellendus in iure ab 
+quisquam quis mollitia dolorum at iusto possimus architecto, dolores sed temporibus officia 
+voluptate, suscipit fugit fuga! Delectus hic architecto repellat, sint nam eos cupiditate magni 
+pariatur commodi voluptate a quidem odit, quam officiis.
+NOTA
+Nota do grupo em relação ao filme / série (de 0 a 10)
+Parte 3: Entrega do trabalho
+A pasta utilizada para este trabalho deverá ser entregue completa com todos os arquivos 
+utilizados. Após encerrar o trabalho, o aluno deverá encontrar a pasta criada no explorador de 
+arquivos clicar com o botão direito e escolher a opção Enviar, em seguida, escolher Pasta 
+Compactada. Observar que um arquivo novo foi criado com o mesmo nome da pasta, mas 
+como pasta compacta. ESTE ARQUIVO É O QUE DEVE SER POSTADO NO TEAM
