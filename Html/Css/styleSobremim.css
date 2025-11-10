@@ -53,3 +53,13 @@ button:hover{
     transform: scale(1.2);
     transition: 2s;
 }
+
+#escolha{
+background-color: blue;
+margin-left:20px;
+margin-right: 1300px;
+padding: 2px;
+border-radius: 10px;
+align-items: center;
+
+}
